@@ -36,3 +36,9 @@ footer {
   font-size: 0.9rem;
   margin-top: 2rem;
 }
+
+.kitten {
+  width: 300px;
+  height: auto; /* keeps aspect ratio */
+  border-radius: 8px;
+}
